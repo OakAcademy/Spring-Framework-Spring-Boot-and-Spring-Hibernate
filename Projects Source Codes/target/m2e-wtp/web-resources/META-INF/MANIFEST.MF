@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: carWasher
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: test
+Implementation-Vendor-Id: com.carWasher
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/carWasher
+Created-By: Maven Integration for Eclipse
+
